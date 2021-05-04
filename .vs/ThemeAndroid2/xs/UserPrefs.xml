@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{EBC130C4-9793-475C-92DD-1BA9FBDB44E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThemeAndroid2/Resources/layout/activity_main.xml">
+    <Files>
+      <File FileName="ThemeAndroid2/MainActivity.cs" Line="54" Column="51" />
+      <File FileName="ThemeAndroid2/Resources/layout/activity_main.xml" Line="141" Column="47" />
+      <File FileName="ThemeAndroid2/Resources/menu/navigation.xml" />
+      <File FileName="ThemeAndroid2/Resources/drawable/environnementBackground.xml" />
+      <File FileName="ThemeAndroid2/Resources/drawable/airBackground.xml" />
+      <File FileName="ThemeAndroid2/Resources/drawable/eauBackground.xml" />
+      <File FileName="ThemeAndroid2/Resources/drawable/dechetBackground.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ThemeAndroid2" expanded="True">
+            <Node name="ThemeAndroid2" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ThemeAndroid2 AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="pixel_3a_xl" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/enzojany/Projects/ThemeAndroid2/ThemeAndroid2/ThemeAndroid2.csproj": {}
+  },
+  "projects": {
+    "/Users/enzojany/Projects/ThemeAndroid2/ThemeAndroid2/ThemeAndroid2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enzojany/Projects/ThemeAndroid2/ThemeAndroid2/ThemeAndroid2.csproj",
+        "projectName": "ThemeAndroid2",
+        "projectPath": "/Users/enzojany/Projects/ThemeAndroid2/ThemeAndroid2/ThemeAndroid2.csproj",
+        "packagesPath": "/Users/enzojany/.nuget/packages/",
+        "outputPath": "/Users/enzojany/Projects/ThemeAndroid2/ThemeAndroid2/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/enzojany/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
